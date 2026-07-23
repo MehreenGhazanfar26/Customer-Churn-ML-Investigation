@@ -1,0 +1,25 @@
+Manual notebook
+
+ notebook on the Customer Churn dataset consistently achieved around:
+
+Logistic Regression: ~48–50%
+Decision Tree: ~48–49%
+Random Forest: ~49%
+XGBoost: ~48–49%
+
+investigated the dataset instead of blindly accepting the results.
+
+checked:
+
+✔ Business understanding
+✔ Data understanding
+✔ Missing values
+✔ Duplicates
+✔ Categorical distributions
+✔ Numerical distributions
+✔ Crosstabs
+✔ Correlation
+✔ WOE
+✔ IV
+✔ Feature importance
+✔ Multiple algorithms
